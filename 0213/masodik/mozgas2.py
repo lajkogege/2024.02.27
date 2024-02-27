@@ -15,3 +15,5 @@ def foprogram(robot:DriveBase):
     robot.stop()
     #jobbra
     #balra
+
+def elsofeladat()
